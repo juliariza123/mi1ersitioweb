@@ -1,0 +1,31 @@
+
+/* estilos.css */
+
+/* Fondo oscuro para el body */
+body {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo para el título (h1) */
+h1 {
+    background-color: #fff;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+/* Estilo para los párrafos (p) */
+p {
+    background-color: #fff;
+    color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 600px;
+    text-align: center;
+}
